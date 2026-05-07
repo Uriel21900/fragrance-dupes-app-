@@ -32,8 +32,11 @@ const fragrances: Fragrance[] = [
     dupes: [
       { id: 1, name: "Red Temptation", brand: "Zara", price: "$25", rating: 4.7, image: "https://via.placeholder.com/150?text=RT", description: "98% similar - The best budget-friendly alternative" },
       { id: 2, name: "Cloud", brand: "Ariana Grande", price: "$55", rating: 4.5, image: "https://via.placeholder.com/150?text=Cloud", description: "Popular alternative with similar DNA, more girly interpretation" },
-      { id: 3, name: "Ana Abiyedh Rouge", brand: "Lattafa", price: "$30", rating: 4.6, image: "https://via.placeholder.com/150?text=Ana", description: "Smooth Middle Eastern alternative" },
+      { id: 3, name: "Ana Abiyedh Rouge", brand: "Lattafa", price: "$30", rating: 4.6, image: "https://via.placeholder.com/150?text=Ana", description: "88% similarity - Smooth Middle Eastern alternative" },
       { id: 4, name: "Amber Rouge", brand: "Orientica", price: "$35", rating: 4.4, image: "https://via.placeholder.com/150?text=Amber", description: "Close dupe that many prefer to the original" },
+      { id: 31, name: "Baroque Rouge 540", brand: "Maison Alhambra", price: "$32", rating: 4.5, image: "https://via.placeholder.com/150?text=Baroque", description: "Warm toasted woody take with crystalized sugar effect" },
+      { id: 32, name: "Tinharé", brand: "Le Couvent", price: "$50", rating: 4.3, image: "https://via.placeholder.com/150?text=Tinhare", description: "Less sweet elegant alternative" },
+      { id: 33, name: "Amber Oud Rouge", brand: "Al Haramain", price: "$45", rating: 4.4, image: "https://via.placeholder.com/150?text=AO", description: "99% there with monstrous longevity" },
     ]
   },
   {
@@ -48,6 +51,7 @@ const fragrances: Fragrance[] = [
       { id: 6, name: "Aventus for Her", brand: "Al Wataniah", price: "$35", rating: 4.3, image: "https://via.placeholder.com/150?text=AFH", description: "Unisex version with tropical notes" },
       { id: 7, name: "Supremes", brand: "Afnan", price: "$45", rating: 4.4, image: "https://via.placeholder.com/150?text=Sup", description: "Excellent performance and longevity" },
       { id: 8, name: "B Rouge", brand: "Fragrance World", price: "$20", rating: 4.5, image: "https://via.placeholder.com/150?text=BR", description: "Incredible value at just $11-20" },
+      { id: 34, name: "B Rouge Extrait", brand: "Fragrance World", price: "$25", rating: 4.6, image: "https://via.placeholder.com/150?text=BRE", description: "Extrait version with incredible similarity" },
     ]
   },
   {
